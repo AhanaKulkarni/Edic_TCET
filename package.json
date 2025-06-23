@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@replit/vite-plugin-cartographer": "^0.2.7",
+    "@replit/vite-plugin-runtime-error-modal": "^0.0.3",
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.3",
+    "@vitejs/plugin-react": "^4.6.0",
+    "drizzle-kit": "^0.31.2",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.44.2",
+    "drizzle-zod": "^0.8.2",
+    "express": "^5.1.0",
+    "pg": "^8.16.2",
+    "tailwindcss": "^4.1.10",
+    "zod": "^3.25.67"
+  }
+}
